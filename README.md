@@ -5,8 +5,8 @@ This starter app comes with Next.js 14 (app router) pre-configured with Typescri
 
 #### Please leave a star if you find this repo usefull.
 
-[<img src="https://raw.githubusercontent.com/tanujpatra228/Next.js-Appwrite-Starter-Template/refs/heads/main/public/sign-up-page.png">]
-[<img src="https://raw.githubusercontent.com/tanujpatra228/Next.js-Appwrite-Starter-Template/refs/heads/main/public/login-page.png">]
+<img src="https://raw.githubusercontent.com/tanujpatra228/Next.js-Appwrite-Starter-Template/refs/heads/main/public/sign-up-page.png">
+<img src="https://raw.githubusercontent.com/tanujpatra228/Next.js-Appwrite-Starter-Template/refs/heads/main/public/login-page.png">
 
 ### Dependencies
 - next: 14.2.13
